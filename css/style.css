@@ -347,7 +347,7 @@ button:focus,
  *-------------------*/
 
 .jumbotron {
-    background            : url("../img/SE2.jpg");
+    background            : url("../img/julia_set2.png");
     background-size       : cover;
     padding               : 0;
     margin                : 0;
@@ -451,6 +451,10 @@ button:focus,
 .about-event address strong {
     color : #353e55;
     }
+
+.border { border-width: 1px; border-color: black; border-style: solid; }
+
+
 
 /* ----------------------------------------------
  * Team Section
