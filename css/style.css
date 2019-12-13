@@ -68,7 +68,7 @@ h2 {
     }
 
 h3 {
-    font-size   : 24px;
+    font-size   : 22px;
     line-height : 1.5em;
     font-weight : 300;
     }
@@ -486,9 +486,9 @@ button:focus,
     font-size        : 14px;
     font-weight: bold;
 
-    margin           : 0 20px;
+    margin           : 0px 5px;
     text-transform   : uppercase;
-    padding          : 5px 0;
+    padding          : 0px 5px;
     }
 
 
